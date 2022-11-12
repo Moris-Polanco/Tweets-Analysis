@@ -2,3 +2,4 @@ nltk
 wordcloud
 tweepy
 textblob
+twitapi
